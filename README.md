@@ -1,4 +1,4 @@
-# ML_azure_deployment
+# Credit Card Fraud Detection through Azure Machine Learning
 
 ### Introduction
 Credit card fraud is a significant concern in the financial industry, leading to substantial financial losses for both businesses and individuals. This project utilizes machine learning algorithms to develop a fraud detection system that can identify suspicious transactions with high accuracy.
